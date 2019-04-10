@@ -1,7 +1,7 @@
 ### 1. For each of the following expressions, what value will the expression give? Verify your answers by typing the expressions into Python.
 
-   1. 9 - 3       
-   2. 8 * 2.5       
+  * 1. 9 - 3       
+  * 2. 8 * 2.5       
    3. 9 / 2       
    4. 9 / -2       
    5. 9 // -2       
