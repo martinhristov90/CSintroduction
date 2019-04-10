@@ -29,9 +29,9 @@
    * 3. 5 - 2 * 3 ** 4       
 
 ### 5. 
-   * 1.Create a new variable x, and assign it the value 10.5.       
-   * 2.Create a new variable y, and assign it the value 4.       
-   * 3.Sum x and y, and make x refer to the resulting value. After this statement has been executed, what are the values of        x and y?       
+   * 1. Create a new variable x, and assign it the value 10.5.       
+   * 2. Create a new variable y, and assign it the value 4.       
+   * 3. Sum x and y, and make x refer to the resulting value. After this statement has been executed, what are the values of        x and y?       
 
 ### 6.Write a bullet list description of what happens when Python evaluates the statement x += x - x when x has the value 3.     
 
