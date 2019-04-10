@@ -18,8 +18,8 @@
 
 ### 3.Write two assignment statements that do the following:  
 
-   * 1.Create a new variable, temp, and assign it the value 24.    
-   * 2.Convert the value in temp from Celsius to Fahrenheit by multiplying by 1.8 and adding 32; make temp refer to the resulting value.       
+   * 1. Create a new variable, temp, and assign it the value 24.    
+   * 2. Convert the value in temp from Celsius to Fahrenheit by multiplying by 1.8 and adding 32; make temp refer to the resulting value.       
          What is temp’s new value?     
 
 ### 4.For each of the following expressions, in which order are the subexpressions evaluated?     
